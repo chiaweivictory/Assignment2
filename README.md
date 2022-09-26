@@ -45,7 +45,7 @@ The answer is:<br>
 2,8,7,4,1,9,6,3,5<br>
 3,4,5,2,8,6,1,7,9<br>
 ### 2. Verify that Sudoku is valid but cannot be solved
-board=<br>
+grid=<br>
 1,3,0,0,7,0,0,0,0(I replace the 5 in row 1, column 1 with a 1)<br>
 6,0,0,1,9,5,0,0,0<br>
 0,9,8,0,0,0,0,6,0<br>
@@ -61,7 +61,7 @@ The sudoku has no solution<br>
 unsat<br>
 ### 3. Verify that Sudoku is invalid
 Case 1:<br>
-board=<br>
+grid=<br>
 6,3,0,0,7,0,0,0,0(Replace the 5 in row 1, column 1 with 6)<br>
 6,0,0,1,9,5,0,0,0<br>
 0,9,8,0,0,0,0,6,0<br>
@@ -77,7 +77,7 @@ Duplicate numbers appear in row  2 and column  1<br>
 The result is:<br>
 unsat<br>
 Case 2:<br>
-board=<br>
+grid=<br>
 5,3,0,0,7,0,0,0,0<br>
 6,0,0,1,9,5,0,0,0<br>
 0,9,8,0,0,0,0,6,0<br>

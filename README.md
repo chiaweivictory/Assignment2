@@ -93,5 +93,5 @@ Duplicate numbers appear in row  7 and column  8<br>
 The result is:<br>
 unsat<br>
 ## Bad place
-Need to change the path to open txt in the code
+Need to change the path to open txt in the code<br>
 sorry about this

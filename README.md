@@ -22,7 +22,7 @@ solve Sudoku(propositional logic)
 0,0,0,0,8,0,0,7,9<br>
 ## The results of
 ### 1. Verify that Sudoku is valid and solve it
-board=<br>
+grid=<br>
 5,3,0,0,7,0,0,0,0<br>
 6,0,0,1,9,5,0,0,0<br>
 0,9,8,0,0,0,0,6,0<br>
